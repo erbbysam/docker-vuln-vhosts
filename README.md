@@ -1,2 +1,2 @@
-# docker-vuln-vhosts
-VirSecCon2020 presentation support material
+
+heavily derived from https://github.com/dhanugupta/docker-apache-ubuntu/blob/master/Dockerfile
